@@ -1,0 +1,38 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.category-name {
+    background-color: aquamarine;
+    width: 600px;
+    height: 400px;
+}
+.category-name .breakfast {
+    background-color: azure;
+    width: 300px;
+    height: fit-content;
+}
+
+.category-name .lunch {
+    background-color: brown;
+    width: 300px;
+    height: fit-content;
+}
+
+.category-name .dinner {
+    background-color: blueviolet;
+    width: 300px;
+    height: fit-content;
+}
+
+a.breakfast-text, 
+a.lunch-text, 
+a.dinner-text {
+    color:rgb(78, 66, 66);
+}
+
+.meal-info {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
